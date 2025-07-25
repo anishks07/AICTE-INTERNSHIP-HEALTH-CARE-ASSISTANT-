@@ -31,7 +31,7 @@ This project is a simple, interactive AI healthcare assistant built using **Stre
 ```bash
 git clone https://github.com/anishks07/AICTE-INTERNSHIP-HEALTH-CARE-ASSISTANT.git
 cd AICTE-INTERNSHIP-HEALTH-CARE-ASSISTANT
-
+```
 Create a virtual environment (optional but recommended)
 
 bash
